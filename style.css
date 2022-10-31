@@ -1,0 +1,20 @@
+ <style>
+      h1 { 
+      color: rebeccapurple; 
+      font-family: verdana;
+      font-size: 200%;
+      padding: 20px;
+    }
+    h2 {
+       color: rebeccapurple; 
+      font-family: verdana;
+      font-size: 100%;
+      padding: 20px;
+    }
+    .search {
+      font-size: 100%;
+      padding: 10px 
+      position: relative;
+      left: 80px;
+    }
+    </style>
